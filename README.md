@@ -4,12 +4,18 @@
 <h2>3D rotating Sierpinski Pyramids</h2>
 <p>3D rotating Sierpinski Pyramids using JavaScript and WebGL. The user will be able to control the amount of subdivisions.</p>
 
-<p>An interactive Sierpinski pyramids demo built with WebGL. You can try the demo at : </p>
+<p>An interactive Sierpinski pyramids demo built with WebGL. You can try the demo at : https://prashantsingh20.github.io/3D-rotating-Sierpinski-Pyramids/ </p>
 
 <h2>The controls are:</h2>
 
 <ul>
-  <li><h3>m</h3>control the camera</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li><h3> M : control the camera</li>
+  <li> W : forward</li>
+  <li> S : backward</li>
+  <li> A : left</li>
+  <li> D : right</li>
+  <li> Z : up</li>
+  <li> X : down</li>
+  <li> LMB : subdivide</li>
+  <li> RMB : unsubdivide</li>
 </ul>
