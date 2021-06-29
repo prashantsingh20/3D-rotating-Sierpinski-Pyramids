@@ -9,7 +9,7 @@
 <h2>The controls are:</h2>
 
 <ul>
-  <li><h3> M : control the camera</li>
+  <li> M : control the camera</li>
   <li> W : forward</li>
   <li> S : backward</li>
   <li> A : left</li>
